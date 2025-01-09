@@ -3609,7 +3609,7 @@
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
-                    "gate": "baf3444a-917b-40f6-972c-9f462551a68e",
+                    "gate": "53c208d0-ba87-4938-b8fd-cd02ccea3cad",
                     "pin_display_mode": "selected_only",
                     "placement": {
                         "angle": 0,
@@ -3970,7 +3970,7 @@
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
-                    "gate": "53c208d0-ba87-4938-b8fd-cd02ccea3cad",
+                    "gate": "baf3444a-917b-40f6-972c-9f462551a68e",
                     "pin_display_mode": "selected_only",
                     "placement": {
                         "angle": 0,
