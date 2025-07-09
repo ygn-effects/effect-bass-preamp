@@ -2204,7 +2204,7 @@
                 "n_spokes": 4,
                 "style": "miter",
                 "text_style": "expand",
-                "thermal_gap_width": 190000,
+                "thermal_gap_width": 200000,
                 "thermal_spoke_width": 300000
             }
         },
@@ -2225,7 +2225,7 @@
                 "n_spokes": 4,
                 "style": "miter",
                 "text_style": "expand",
-                "thermal_gap_width": 190000,
+                "thermal_gap_width": 200000,
                 "thermal_spoke_width": 300000
             }
         },
@@ -2288,7 +2288,7 @@
                 "n_spokes": 4,
                 "style": "miter",
                 "text_style": "expand",
-                "thermal_gap_width": 190000,
+                "thermal_gap_width": 200000,
                 "thermal_spoke_width": 300000
             }
         },
@@ -2309,7 +2309,7 @@
                 "n_spokes": 4,
                 "style": "miter",
                 "text_style": "expand",
-                "thermal_gap_width": 190000,
+                "thermal_gap_width": 200000,
                 "thermal_spoke_width": 300000
             }
         },
@@ -2841,7 +2841,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        36140000,
+                        36230000,
                         2000000
                     ],
                     "type": "line"
@@ -2853,7 +2853,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        36140000,
+                        36230000,
                         5300000
                     ],
                     "type": "line"
@@ -3057,7 +3057,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        31850000,
+                        31770000,
                         5300000
                     ],
                     "type": "line"
@@ -3069,7 +3069,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        31850000,
+                        31770000,
                         2000000
                     ],
                     "type": "line"
@@ -3580,7 +3580,7 @@
                         ]
                     },
                     {
-                        "clearance": 190000,
+                        "clearance": 200000,
                         "types": [
                             "pad",
                             "plane"
@@ -3636,7 +3636,7 @@
                         ]
                     },
                     {
-                        "clearance": 290000,
+                        "clearance": 200000,
                         "types": [
                             "pad_th",
                             "plane"
@@ -4116,7 +4116,7 @@
                     "n_spokes": 4,
                     "style": "miter",
                     "text_style": "expand",
-                    "thermal_gap_width": 190000,
+                    "thermal_gap_width": 200000,
                     "thermal_spoke_width": 300000
                 }
             },
