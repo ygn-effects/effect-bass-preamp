@@ -163,7 +163,7 @@
             }
         },
         "output_directory": "/home/yann/_ygn/effect-bass-preamp/pcb/gerber",
-        "prefix": "sexy-rodent",
+        "prefix": "bass-preamp",
         "zip_output": true
     },
     "grid_settings": {
