@@ -469,10 +469,10 @@
                     "net": "bfab9380-5d3f-419b-8198-b188e1ef5a09"
                 },
                 "13981606-2bf8-4098-ac63-1eb693f1f826/13f3f0aa-5e48-4f09-94eb-692ba2fd99f7": {
-                    "net": "936f0572-b515-4dd7-9524-bc4c5b0d957c"
+                    "net": "b15d3b93-05de-4056-bab2-e8581e0da50c"
                 },
                 "13981606-2bf8-4098-ac63-1eb693f1f826/20b53414-8838-4b88-af9b-83f8155e3294": {
-                    "net": "b15d3b93-05de-4056-bab2-e8581e0da50c"
+                    "net": "936f0572-b515-4dd7-9524-bc4c5b0d957c"
                 },
                 "13981606-2bf8-4098-ac63-1eb693f1f826/29df8f59-78e5-4da7-9dd8-6eb8cde05ed6": {
                     "net": "22cf4487-8bda-4cb0-b8e4-72239c8f174d"
@@ -781,13 +781,13 @@
             "alt_pins": {},
             "connections": {
                 "53c208d0-ba87-4938-b8fd-cd02ccea3cad/276bd8ce-1c37-4de3-bd84-2026a3989cd8": {
-                    "net": "eaa6a7e3-fe35-44f5-916f-effb765df5a6"
+                    "net": "06cf138f-6c8e-4c1c-a77f-dd5f34f35938"
                 },
                 "53c208d0-ba87-4938-b8fd-cd02ccea3cad/9dcc6dfb-e5e9-4b32-9b18-e074ade4923a": {
-                    "net": "765061fd-ddb6-47c2-a817-a66384495a10"
+                    "net": "5250e92b-1451-4fde-b6d4-cb9959f3c147"
                 },
                 "53c208d0-ba87-4938-b8fd-cd02ccea3cad/c1945fd1-da7b-4cc2-af40-cf6465850b8e": {
-                    "net": "c26aab1b-1fba-42fd-be57-05b47df57ab0"
+                    "net": "06cf138f-6c8e-4c1c-a77f-dd5f34f35938"
                 },
                 "5c0dcbc1-7880-4f32-918b-19a001cb48b4/75d1face-4dfe-4e9e-ae1c-2a084c3b81df": {
                     "net": "9ce24954-fc0f-453c-a163-0114dfd8569a"
@@ -796,13 +796,13 @@
                     "net": "953f378e-f368-4a22-9560-090233556068"
                 },
                 "baf3444a-917b-40f6-972c-9f462551a68e/276bd8ce-1c37-4de3-bd84-2026a3989cd8": {
-                    "net": "06cf138f-6c8e-4c1c-a77f-dd5f34f35938"
+                    "net": "eaa6a7e3-fe35-44f5-916f-effb765df5a6"
                 },
                 "baf3444a-917b-40f6-972c-9f462551a68e/9dcc6dfb-e5e9-4b32-9b18-e074ade4923a": {
-                    "net": "5250e92b-1451-4fde-b6d4-cb9959f3c147"
+                    "net": "765061fd-ddb6-47c2-a817-a66384495a10"
                 },
                 "baf3444a-917b-40f6-972c-9f462551a68e/c1945fd1-da7b-4cc2-af40-cf6465850b8e": {
-                    "net": "06cf138f-6c8e-4c1c-a77f-dd5f34f35938"
+                    "net": "c26aab1b-1fba-42fd-be57-05b47df57ab0"
                 }
             },
             "entity": "754d410a-7ee8-4c55-9092-3f5a95c2f664",
