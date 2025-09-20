@@ -20,20 +20,33 @@
     },
     "connection_lines": {},
     "decals": {
-        "5ffce97e-faf9-4b8a-973a-3244d276e04c": {
-            "decal": "bcf3fff3-aa5b-4e5a-8879-dd3484c16fad",
+        "658360a7-ab3e-4382-be7e-83f207cdf0d7": {
+            "decal": "2cef7b60-e221-46bc-9c70-099b6f061662",
             "flip": false,
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    5200000,
-                    13700000
+                    58500000,
+                    12600000
                 ]
             },
             "scale": 1.0
         },
-        "658360a7-ab3e-4382-be7e-83f207cdf0d7": {
+        "b35af695-ad1c-4023-b5e6-444fa1ac9086": {
+            "decal": "38ca3c1f-10dd-4966-baf1-235761787ce6",
+            "flip": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    58500000,
+                    17300000
+                ]
+            },
+            "scale": 1.0
+        },
+        "d6e7de81-2fb3-45a5-978b-edb5a6036304": {
             "decal": "2cef7b60-e221-46bc-9c70-099b6f061662",
             "flip": false,
             "placement": {
@@ -58,6 +71,19 @@
                 ]
             },
             "scale": 1.0
+        },
+        "e811fb13-cf39-4e04-a579-af19463db026": {
+            "decal": "bcf3fff3-aa5b-4e5a-8879-dd3484c16fad",
+            "flip": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    3500000,
+                    11000000
+                ]
+            },
+            "scale": 0.30000000000000016
         }
     },
     "dimensions": {
@@ -5171,6 +5197,23 @@
             },
             "size": 1000000,
             "text": "$RD",
+            "width": 150000
+        },
+        "d814a8ab-f2f3-426a-815e-af9b7d49b596": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    57000000,
+                    9300000
+                ]
+            },
+            "size": 1000000,
+            "text": "v1.0",
             "width": 150000
         },
         "d87d0341-7c7a-4269-a677-fc43e08c85b1": {
