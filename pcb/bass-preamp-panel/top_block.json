@@ -1,0 +1,40 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "a70aa72f-00d1-4c57-a210-7b1bf82703ec",
+    "net_classes": {
+        "a70aa72f-00d1-4c57-a210-7b1bf82703ec": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "yann",
+        "date": "2025-08-10",
+        "project_name": "bass-preamp-panel",
+        "project_title": "bass-preamp-panel",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "30ad274f-c407-464b-84af-3369835d97c7"
+}

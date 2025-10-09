@@ -1,0 +1,51 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "30ad274f-c407-464b-84af-3369835d97c7",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": ""
+    },
+    "rules": {
+        "connectivity": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "fbae2551-0c54-48d9-90ea-9d19a532f086": {
+            "arcs": {},
+            "block_symbols": {},
+            "bus_labels": {},
+            "bus_rippers": {},
+            "index": 1,
+            "junctions": {},
+            "lines": {},
+            "name": "First sheet",
+            "net_labels": {},
+            "net_lines": {},
+            "power_symbols": {},
+            "symbols": {},
+            "texts": {},
+            "title_block_values": {}
+        }
+    },
+    "title_block_values": {
+        "author": "yann",
+        "date": "2025-08-10",
+        "project_name": "bass-preamp-panel",
+        "project_title": "bass-preamp-panel",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "72941e2f-62a3-4285-bb8c-4290926b53af",
+    "version": 9
+}
